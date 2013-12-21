@@ -1,0 +1,9 @@
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\obj\Debug\UnityVS.FruitSalad.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\obj\Debug\Assembly-CSharp.dll
+C:\Users\andreas\Documents\GitHub\FruitSalad\FruitSalad\obj\Debug\Assembly-CSharp.pdb
